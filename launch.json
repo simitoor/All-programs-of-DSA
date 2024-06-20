@@ -1,0 +1,1469 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "abc",
+            "request": "launch",
+            "mainClass": "abc",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "tripletsumzero",
+            "request": "launch",
+            "mainClass": "tripletsumzero",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "firsts",
+            "request": "launch",
+            "mainClass": "firsts",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Cisco_Q3",
+            "request": "launch",
+            "mainClass": "Cisco_Q3",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Cisco_Q1",
+            "request": "launch",
+            "mainClass": "Cisco_Q1",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "DeShaw_Q3_smallestmex",
+            "request": "launch",
+            "mainClass": "DeShaw_Q3_smallestmex",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "SalesForce_Q3",
+            "request": "launch",
+            "mainClass": "SalesForce_Q3",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "SalesForce_Q1",
+            "request": "launch",
+            "mainClass": "SalesForce_Q1",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "DeShaw_Q3_monster",
+            "request": "launch",
+            "mainClass": "DeShaw_Q3_monster",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Deshaw_Q2_tree",
+            "request": "launch",
+            "mainClass": "Deshaw_Q2_tree",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Deshaw",
+            "request": "launch",
+            "mainClass": "Deshaw",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "MaxST",
+            "request": "launch",
+            "mainClass": "MaxST",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "CreationofSTandquery",
+            "request": "launch",
+            "mainClass": "CreationofSTandquery",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "CreationofST",
+            "request": "launch",
+            "mainClass": "CreationofST",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "MaxProfitwithdays",
+            "request": "launch",
+            "mainClass": "MaxProfitwithdays",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "MinimumArrayJumps",
+            "request": "launch",
+            "mainClass": "MinimumArrayJumps",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "MatrixChainMultiplication",
+            "request": "launch",
+            "mainClass": "MatrixChainMultiplication",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "CatalanNumber",
+            "request": "launch",
+            "mainClass": "CatalanNumber",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "WildCardMatching",
+            "request": "launch",
+            "mainClass": "WildCardMatching",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "StringConversion",
+            "request": "launch",
+            "mainClass": "StringConversion",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "EditDistance",
+            "request": "launch",
+            "mainClass": "EditDistance",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "LongestIncreasingSubsquence",
+            "request": "launch",
+            "mainClass": "LongestIncreasingSubsquence",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonSubstring",
+            "request": "launch",
+            "mainClass": "LongestCommonSubstring",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonSubsquence",
+            "request": "launch",
+            "mainClass": "LongestCommonSubsquence",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Coinchange",
+            "request": "launch",
+            "mainClass": "Coinchange",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Unboundedknapsack",
+            "request": "launch",
+            "mainClass": "Unboundedknapsack",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "TargetSumSubset",
+            "request": "launch",
+            "mainClass": "TargetSumSubset",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Knapsack",
+            "request": "launch",
+            "mainClass": "Knapsack",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Climbing_Stairs",
+            "request": "launch",
+            "mainClass": "Climbing_Stairs",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "introtodp",
+            "request": "launch",
+            "mainClass": "introtodp",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Articulation_point",
+            "request": "launch",
+            "mainClass": "Articulation_point",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bridge_in_Graph",
+            "request": "launch",
+            "mainClass": "Bridge_in_Graph",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kosaraju_algo",
+            "request": "launch",
+            "mainClass": "Kosaraju_algo",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Longwordwithallprefix",
+            "request": "launch",
+            "mainClass": "Longwordwithallprefix",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch uniquesubstrings",
+            "request": "launch",
+            "mainClass": "uniquesubstrings",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch startswith",
+            "request": "launch",
+            "mainClass": "startswith",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Numberofclosedislands",
+            "request": "launch",
+            "mainClass": "Numberofclosedislands",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlienDictionary",
+            "request": "launch",
+            "mainClass": "AlienDictionary",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Finishalltasksgraph",
+            "request": "launch",
+            "mainClass": "Finishalltasksgraph",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Unionfindcycle",
+            "request": "launch",
+            "mainClass": "Unionfindcycle",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mothervertex",
+            "request": "launch",
+            "mainClass": "Mothervertex",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Floydwarshallalgo",
+            "request": "launch",
+            "mainClass": "Floydwarshallalgo",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice$Edge",
+            "request": "launch",
+            "mainClass": "practice$Edge",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Floodfillalgo",
+            "request": "launch",
+            "mainClass": "Floodfillalgo",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kruskalalgo",
+            "request": "launch",
+            "mainClass": "Kruskalalgo",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisjointSetUnion",
+            "request": "launch",
+            "mainClass": "DisjointSetUnion",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch connectcitieswithmincost",
+            "request": "launch",
+            "mainClass": "connectcitieswithmincost",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cheapflightswithkstops",
+            "request": "launch",
+            "mainClass": "Cheapflightswithkstops",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch primalgo",
+            "request": "launch",
+            "mainClass": "primalgo",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch bellamfordalgo",
+            "request": "launch",
+            "mainClass": "bellamfordalgo",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Wordladder",
+            "request": "launch",
+            "mainClass": "Wordladder",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Booleanmatrixgraph",
+            "request": "launch",
+            "mainClass": "Booleanmatrixgraph",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rottenorganes",
+            "request": "launch",
+            "mainClass": "Rottenorganes",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch mindepthintree",
+            "request": "launch",
+            "mainClass": "mindepthintree",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch cycledetectundirbfs",
+            "request": "launch",
+            "mainClass": "cycledetectundirbfs",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch cycledetectundirectedbfs",
+            "request": "launch",
+            "mainClass": "cycledetectundirectedbfs",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dijkstra",
+            "request": "launch",
+            "mainClass": "Dijkstra",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch allpathfromsrctotar",
+            "request": "launch",
+            "mainClass": "allpathfromsrctotar",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch topologicalsorting",
+            "request": "launch",
+            "mainClass": "topologicalsorting",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch cycledetectdirected",
+            "request": "launch",
+            "mainClass": "cycledetectdirected",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch bipartitegraph",
+            "request": "launch",
+            "mainClass": "bipartitegraph",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch bfsanddfs",
+            "request": "launch",
+            "mainClass": "bfsanddfs",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch bfsgraph",
+            "request": "launch",
+            "mainClass": "bfsgraph",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch graph",
+            "request": "launch",
+            "mainClass": "graph",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch longestwordindictionary",
+            "request": "launch",
+            "mainClass": "longestwordindictionary",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch subarraywithsumk",
+            "request": "launch",
+            "mainClass": "subarraywithsumk",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lrucache",
+            "request": "launch",
+            "mainClass": "Lrucache",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch prefix",
+            "request": "launch",
+            "mainClass": "prefix",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch wordbreakprob",
+            "request": "launch",
+            "mainClass": "wordbreakprob",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch trie",
+            "request": "launch",
+            "mainClass": "trie",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortbyfrequency",
+            "request": "launch",
+            "mainClass": "sortbyfrequency",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch twosum",
+            "request": "launch",
+            "mainClass": "twosum",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch bottomviewoftreeusinghashmap",
+            "request": "launch",
+            "mainClass": "bottomviewoftreeusinghashmap",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch largestsubarraywithsumzero",
+            "request": "launch",
+            "mainClass": "largestsubarraywithsumzero",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch iternaityfortickets",
+            "request": "launch",
+            "mainClass": "iternaityfortickets",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch unionandinterfortwoarrays",
+            "request": "launch",
+            "mainClass": "unionandinterfortwoarrays",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch countdistinctele",
+            "request": "launch",
+            "mainClass": "countdistinctele",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch iterationsonhashset",
+            "request": "launch",
+            "mainClass": "iterationsonhashset",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch validanagram",
+            "request": "launch",
+            "mainClass": "validanagram",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch majorityele",
+            "request": "launch",
+            "mainClass": "majorityele",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hashmapimplentation",
+            "request": "launch",
+            "mainClass": "Hashmapimplentation",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch iterationsonhashmap",
+            "request": "launch",
+            "mainClass": "iterationsonhashmap",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergeksortedll",
+            "request": "launch",
+            "mainClass": "mergeksortedll",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch minopetohalvearraysum",
+            "request": "launch",
+            "mainClass": "minopetohalvearraysum",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch pathwithmineffort",
+            "request": "launch",
+            "mainClass": "pathwithmineffort",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch mintimetofillnslots",
+            "request": "launch",
+            "mainClass": "mintimetofillnslots",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch kthlargesteleinstream",
+            "request": "launch",
+            "mainClass": "kthlargesteleinstream",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch slidingwindowsameasmaxsubarray",
+            "request": "launch",
+            "mainClass": "slidingwindowsameasmaxsubarray",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch weakestsolider",
+            "request": "launch",
+            "mainClass": "weakestsolider",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch nearbykcars",
+            "request": "launch",
+            "mainClass": "nearbykcars",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch heapsort",
+            "request": "launch",
+            "mainClass": "heapsort",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch heap",
+            "request": "launch",
+            "mainClass": "heap",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch pqforobjects",
+            "request": "launch",
+            "mainClass": "pqforobjects",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch priorityqueue",
+            "request": "launch",
+            "mainClass": "priorityqueue",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximumsumbst",
+            "request": "launch",
+            "mainClass": "maximumsumbst",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch twosumbst",
+            "request": "launch",
+            "mainClass": "twosumbst",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch kthsmallestele",
+            "request": "launch",
+            "mainClass": "kthsmallestele",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch closesteleinbst",
+            "request": "launch",
+            "mainClass": "closesteleinbst",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch rangesumofbst",
+            "request": "launch",
+            "mainClass": "rangesumofbst",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch merge2bst",
+            "request": "launch",
+            "mainClass": "merge2bst",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch largestbstinbt",
+            "request": "launch",
+            "mainClass": "largestbstinbt",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch bsttobalancedbst",
+            "request": "launch",
+            "mainClass": "bsttobalancedbst",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortedarraytobst",
+            "request": "launch",
+            "mainClass": "sortedarraytobst",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch bulidbst",
+            "request": "launch",
+            "mainClass": "bulidbst",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximumsumpathbinary",
+            "request": "launch",
+            "mainClass": "maximumsumpathbinary",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicatesubtrees$Node",
+            "request": "launch",
+            "mainClass": "duplicatesubtrees$Node",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch deleteleavenodeswithvaluek",
+            "request": "launch",
+            "mainClass": "deleteleavenodeswithvaluek",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch invertbinarytree",
+            "request": "launch",
+            "mainClass": "invertbinarytree",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch univaluedbinarytree",
+            "request": "launch",
+            "mainClass": "univaluedbinarytree",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximumbalanced",
+            "request": "launch",
+            "mainClass": "maximumbalanced",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch treesubtreeofoneother",
+            "request": "launch",
+            "mainClass": "treesubtreeofoneother",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarytree",
+            "request": "launch",
+            "mainClass": "binarytree",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ksubarraygreedy",
+            "request": "launch",
+            "mainClass": "ksubarraygreedy",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch stockspanmaximum",
+            "request": "launch",
+            "mainClass": "stockspanmaximum",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lexicographicallysmallest",
+            "request": "launch",
+            "mainClass": "Lexicographicallysmallest",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch kthlargestoddnumber",
+            "request": "launch",
+            "mainClass": "kthlargestoddnumber",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch substringsamelr",
+            "request": "launch",
+            "mainClass": "substringsamelr",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch chocola",
+            "request": "launch",
+            "mainClass": "chocola",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch github",
+            "request": "launch",
+            "mainClass": "github",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch indiancoins",
+            "request": "launch",
+            "mainClass": "indiancoins",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxlengthchainofpairs",
+            "request": "launch",
+            "mainClass": "maxlengthchainofpairs",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch minabsolutediffpair",
+            "request": "launch",
+            "mainClass": "minabsolutediffpair",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch fractionalknapsack",
+            "request": "launch",
+            "mainClass": "fractionalknapsack",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch activityselection",
+            "request": "launch",
+            "mainClass": "activityselection",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxsubarrayqueue",
+            "request": "launch",
+            "mainClass": "maxsubarrayqueue",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseqeueupton",
+            "request": "launch",
+            "mainClass": "reverseqeueupton",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseqeue",
+            "request": "launch",
+            "mainClass": "reverseqeue",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseqeueuuptok",
+            "request": "launch",
+            "mainClass": "reverseqeueuuptok",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch jobsquencing",
+            "request": "launch",
+            "mainClass": "jobsquencing",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ropesconnect",
+            "request": "launch",
+            "mainClass": "ropesconnect",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Convertinglettersintouppercase",
+            "request": "launch",
+            "mainClass": "Convertinglettersintouppercase",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shortestpath",
+            "request": "launch",
+            "mainClass": "Shortestpath",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch abstractclass",
+            "request": "launch",
+            "mainClass": "abstractclass",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch arraylistwithstack",
+            "request": "launch",
+            "mainClass": "arraylistwithstack",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch arraysortfib",
+            "request": "launch",
+            "mainClass": "arraysortfib",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch beautifullal",
+            "request": "launch",
+            "mainClass": "beautifullal",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarystring",
+            "request": "launch",
+            "mainClass": "binarystring",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch containerwithmostwater",
+            "request": "launch",
+            "mainClass": "containerwithmostwater",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch countsetbits",
+            "request": "launch",
+            "mainClass": "countsetbits",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch decodestring",
+            "request": "launch",
+            "mainClass": "decodestring",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch deletingnnodesafterm",
+            "request": "launch",
+            "mainClass": "deletingnnodesafterm",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch doublyll",
+            "request": "launch",
+            "mainClass": "doublyll",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch dupliparathensis",
+            "request": "launch",
+            "mainClass": "dupliparathensis",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch fastexponents",
+            "request": "launch",
+            "mainClass": "fastexponents",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibanoccinumber",
+            "request": "launch",
+            "mainClass": "fibanoccinumber",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch findintersectionll",
+            "request": "launch",
+            "mainClass": "findintersectionll",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequencyfollowingkey",
+            "request": "launch",
+            "mainClass": "frequencyfollowingkey",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch friendspairing",
+            "request": "launch",
+            "mainClass": "friendspairing",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch generatebinary",
+            "request": "launch",
+            "mainClass": "generatebinary",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch gridways",
+            "request": "launch",
+            "mainClass": "gridways",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch interfaces",
+            "request": "launch",
+            "mainClass": "interfaces",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch interleavetwohalves",
+            "request": "launch",
+            "mainClass": "interleavetwohalves",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch inversioncount",
+            "request": "launch",
+            "mainClass": "inversioncount",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch jcf",
+            "request": "launch",
+            "mainClass": "jcf",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch jcfqeue",
+            "request": "launch",
+            "mainClass": "jcfqeue",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch keypadcomb",
+            "request": "launch",
+            "mainClass": "keypadcomb",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch knight",
+            "request": "launch",
+            "mainClass": "knight",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch lastoccurencefib",
+            "request": "launch",
+            "mainClass": "lastoccurencefib",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch linkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch linkedlistwithstack",
+            "request": "launch",
+            "mainClass": "linkedlistwithstack",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch lonely",
+            "request": "launch",
+            "mainClass": "lonely",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch majorityeleoptmised",
+            "request": "launch",
+            "mainClass": "majorityeleoptmised",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxareahistogram",
+            "request": "launch",
+            "mainClass": "maxareahistogram",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergekll",
+            "request": "launch",
+            "mainClass": "mergekll",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergesort",
+            "request": "launch",
+            "mainClass": "mergesort",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch modulusexponents",
+            "request": "launch",
+            "mainClass": "modulusexponents",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch multidimensionallist",
+            "request": "launch",
+            "mainClass": "multidimensionallist",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch multipleinhertiance",
+            "request": "launch",
+            "mainClass": "multipleinhertiance",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch nextgreaterele",
+            "request": "launch",
+            "mainClass": "nextgreaterele",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch nonrepeatingletters",
+            "request": "launch",
+            "mainClass": "nonrepeatingletters",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch nqueens",
+            "request": "launch",
+            "mainClass": "nqueens",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch oddevenll",
+            "request": "launch",
+            "mainClass": "oddevenll",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch pairsum1",
+            "request": "launch",
+            "mainClass": "pairsum1",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch pairsum2",
+            "request": "launch",
+            "mainClass": "pairsum2",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutation",
+            "request": "launch",
+            "mainClass": "permutation",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch powerfib",
+            "request": "launch",
+            "mainClass": "powerfib",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch pushatbottom",
+            "request": "launch",
+            "mainClass": "pushatbottom",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch queuereversal",
+            "request": "launch",
+            "mainClass": "queuereversal",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch queueusingarray",
+            "request": "launch",
+            "mainClass": "queueusingarray",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch queueusingcirarray",
+            "request": "launch",
+            "mainClass": "queueusingcirarray",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch queueusingdeque",
+            "request": "launch",
+            "mainClass": "queueusingdeque",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch queueusingll",
+            "request": "launch",
+            "mainClass": "queueusingll",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch queueusingtwostacks",
+            "request": "launch",
+            "mainClass": "queueusingtwostacks",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch quicksort",
+            "request": "launch",
+            "mainClass": "quicksort",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch rainwaterusingstack",
+            "request": "launch",
+            "mainClass": "rainwaterusingstack",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ratgrain",
+            "request": "launch",
+            "mainClass": "ratgrain",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch removingdupli",
+            "request": "launch",
+            "mainClass": "removingdupli",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversestack",
+            "request": "launch",
+            "mainClass": "reversestack",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversestringusingstack",
+            "request": "launch",
+            "mainClass": "reversestringusingstack",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch searchinrotatedrecur",
+            "request": "launch",
+            "mainClass": "searchinrotatedrecur",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch shallowanddeepcopy",
+            "request": "launch",
+            "mainClass": "shallowanddeepcopy",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch simplifyunix",
+            "request": "launch",
+            "mainClass": "simplifyunix",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch stackusingdeque",
+            "request": "launch",
+            "mainClass": "stackusingdeque",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch stackusingtwoqueue",
+            "request": "launch",
+            "mainClass": "stackusingtwoqueue",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch stockspan",
+            "request": "launch",
+            "mainClass": "stockspan",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringcompression",
+            "request": "launch",
+            "mainClass": "stringcompression",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringpalindrome",
+            "request": "launch",
+            "mainClass": "stringpalindrome",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch subset",
+            "request": "launch",
+            "mainClass": "subset",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch substringswithsame",
+            "request": "launch",
+            "mainClass": "substringswithsame",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sudokus",
+            "request": "launch",
+            "mainClass": "sudokus",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch swapnodes",
+            "request": "launch",
+            "mainClass": "swapnodes",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch tiling",
+            "request": "launch",
+            "mainClass": "tiling",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch validparathensis",
+            "request": "launch",
+            "mainClass": "validparathensis",
+            "projectName": "Coding work of java_ec6ad9c"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/Portfolio.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/Portfolio.html"
+        }
+    ]
+}
